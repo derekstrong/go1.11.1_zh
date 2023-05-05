@@ -1,3 +1,8 @@
+<a href="https://scan.coverity.com/projects/golang1-11">
+  <img alt="Coverity Scan Build Status"
+       src="https://scan.coverity.com/projects/28339/badge.svg"/>
+</a>
+
 # The Go Programming Language
 
 Go is an open source programming language that makes it easy to build simple,
